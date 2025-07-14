@@ -11,5 +11,8 @@ public class ExE {
     public static void main(String[] args) {
         String input = "Мама мыла Милу мылом!";
 
+        String outstr = input.toUpperCase();
+        System.out.println(outstr);
+
     }
 }
